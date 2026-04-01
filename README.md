@@ -8,7 +8,7 @@ A minimalistic native utility for disabling automatic sleep mode when closing th
   cd Sleeper
   ```
 
-**run build scripts(xcode must be installed):**
+**run build script(xcode must be installed):**
   ```bash
   bash ./build.sh
   ```
