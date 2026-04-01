@@ -3,12 +3,12 @@ A minimalistic native utility for disabling automatic sleep mode when closing th
 # Usage
 
 **clone repo:**
-  bash```
+  ```bash
   git clone https://github.com/cybergusik/Sleeper
   cd Sleeper
   ```
 
 **build:**
-  bash```
+  ```bash
   bash ./build.sh
   ```
